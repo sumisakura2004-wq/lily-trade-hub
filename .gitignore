@@ -1,0 +1,73 @@
+node_modules/
+.next/
+out/
+.npm-cache/
+*.tsbuildinfo
+npm-debug.log*
+next-env.d.ts
+
+# Credentials and local CMS output. Keep the empty template shareable.
+.env*
+!.env.example
+.netlify/
+.sanity/
+.cms-import/
+# Private operator diagnostics: local ACL-protected, never commit or deploy.
+/.private-ops/
+
+# Local internal quotation archive; never publish or import into the CMS.
+src/data/quotation-source.server.ts
+*.xlsx
+*.xls
+*.pem
+*.key
+
+# Local encrypted/plain backup artifacts; keep original files on disk.
+*.dpapi
+*.bak
+/backups/
+/private-backups/
+/supabase/tests.zip
+
+# First-publication boundary: retain internal originals locally.
+/content/
+/docs/
+/supabase/
+/AGENTS.md
+/scripts/*
+!/scripts/check-cms-local.mjs
+/scripts/lib/
+/src/data/*.internal.*
+/src/data/quotation-source.server.ts
+*.xlsm
+*.xlsb
+*.csv
+*.tsv
+*.log
+*.ndjson
+*.zip
+*.7z
+*.pfx
+*.p12
+*.crt
+/dist/
+/coverage/
+/.cache/
+*.jpeg
+*.jpg
+
+# Distribution rights unconfirmed; originals retained locally.
+/public/products/*.webp
+
+# User confirmed 2026-10-29: website and public repository distribution.
+!/public/products/cxy-01.webp
+!/public/products/cxy-02.webp
+!/public/products/cxy-03.webp
+!/public/products/cxy-04.webp
+!/public/products/cxy-05.webp
+!/public/products/cxy-06.webp
+!/public/products/cxy-07.webp
+!/public/products/cxy-08.webp
+!/public/products/cxy-09.webp
+!/public/products/cxy-10.webp
+!/public/products/cxy-11.webp

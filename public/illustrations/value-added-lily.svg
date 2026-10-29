@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" fill="none">
+  <title>Lily food packaging concept illustration</title>
+  <desc>Generic paper packaging and a jar representing processed lily foods. Illustrative concepts, not actual products or packaging.</desc>
+  <ellipse cx="300" cy="391" rx="184" ry="20" fill="#344f36" opacity=".09"/>
+  <path d="M172 109h143l15 49 17 220c-57 13-120 13-182 0l15-220Z" fill="#ddd1b6" stroke="#b7aa8c" stroke-width="1.5"/>
+  <path d="M172 109h143v24H172Z" fill="#c7b997"/>
+  <path d="m180 158-15 220 29-20 4-199-18-1Z" fill="#cabe9f"/>
+  <path d="M180 158h150M188 121h111" stroke="#b4a584" stroke-width="1.5"/>
+  <rect x="204" y="202" width="99" height="115" rx="2" fill="#f6f3e8"/>
+  <g transform="translate(228 219)" fill="#526e4b"><path d="M25 52C1 43 0 22 7 12c14 3 24 20 18 40Z"/><path d="M25 52C49 43 50 22 43 12c-14 3-24 20-18 40Z" opacity=".65"/><path d="M25 42C10 28 16 10 25 1c9 9 15 27 0 41Z"/></g>
+  <path d="M225 291h57m-46 9h35" stroke="#b6bba5" stroke-width="2"/>
+  <rect x="340" y="229" width="100" height="155" rx="17" fill="#e8dfc7" stroke="#c7bda2" stroke-width="1.5"/>
+  <path d="M351 245v118" stroke="#fffaf0" stroke-width="4" stroke-linecap="round"/>
+  <rect x="337" y="214" width="106" height="28" rx="6" fill="#59714e"/>
+  <path d="M345 222h90" stroke="#93a181" stroke-width="2"/>
+  <rect x="351" y="277" width="78" height="67" rx="2" fill="#f8f5eb"/>
+  <path d="M389 321c-22-5-25-23-20-33 15 5 22 18 20 33Z" fill="#647d56"/><path d="M389 321c22-5 25-23 20-33-15 5-22 18-20 33Z" fill="#94a580"/>
+  <path d="M450 175c9-37 32-58 68-62-8 35-30 57-68 62Z" fill="#8b9c75"/><path d="m455 170 48-43" stroke="#d1d6b7" stroke-width="1.5"/>
+</svg>

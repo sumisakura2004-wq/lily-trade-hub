@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" fill="none">
+  <title>Dried edible lily illustration</title>
+  <desc>Stylized dried lily bulb scales in a ceramic bowl. Not actual product photography.</desc>
+  <defs><linearGradient id="petal" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#f4dfaa"/><stop offset="1" stop-color="#cfa967"/></linearGradient><path id="piece" d="M0 0C-24-19-25-58-3-75 17-59 27-22 0 0Z"/><path id="vein" d="M-1-10-3-63"/></defs>
+  <ellipse cx="303" cy="386" rx="181" ry="19" fill="#6a5739" opacity=".1"/>
+  <path d="M130 279c8 79 61 111 171 111s162-32 170-111Z" fill="#b0b69e"/>
+  <path d="M147 303c16 49 65 75 154 75s138-26 153-75" stroke="#c9cebb" stroke-width="2"/>
+  <ellipse cx="301" cy="279" rx="171" ry="52" fill="#e3e5d7" stroke="#a4ad94" stroke-width="2"/>
+  <ellipse cx="301" cy="280" rx="149" ry="39" fill="#a7ad92"/>
+  <g fill="url(#petal)" stroke="#ba9459" stroke-width="1.3">
+    <use href="#piece" transform="translate(209 277) rotate(-37)"/><use href="#piece" transform="translate(257 274) rotate(-17)"/><use href="#piece" transform="translate(303 269) rotate(8)"/><use href="#piece" transform="translate(350 277) rotate(38)"/><use href="#piece" transform="translate(395 282) rotate(58)"/>
+    <use href="#piece" transform="translate(226 300) rotate(-62) scale(.9)"/><use href="#piece" transform="translate(274 300) rotate(-23)"/><use href="#piece" transform="translate(320 304) rotate(27)"/><use href="#piece" transform="translate(369 300) rotate(62)"/>
+    <use href="#piece" transform="translate(278 257) rotate(-49) scale(.85)"/><use href="#piece" transform="translate(329 263) rotate(45) scale(.9)"/><use href="#piece" transform="translate(178 382) rotate(-58) scale(.8)"/><use href="#piece" transform="translate(426 385) rotate(79) scale(.85)"/>
+  </g>
+  <g stroke="#f8e9c5" stroke-width="1.3" opacity=".8"><use href="#vein" transform="translate(257 274) rotate(-17)"/><use href="#vein" transform="translate(303 269) rotate(8)"/><use href="#vein" transform="translate(274 300) rotate(-23)"/><use href="#vein" transform="translate(320 304) rotate(27)"/><use href="#vein" transform="translate(178 382) rotate(-58) scale(.8)"/></g>
+  <path d="M407 181c11-34 37-55 71-54-10 33-33 52-71 54Z" fill="#82916c"/>
+  <path d="m412 177 53-38" stroke="#bac4a2" stroke-width="1.5"/>
+</svg>
